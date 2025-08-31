@@ -6,7 +6,7 @@ Data is gathered from the Kaggle and considered as secondary data. The dataset i
 #### Power BI Visualization Dashboard
 Click on the link https://github.com/dagarmohit272/Indian-Airlines-Ticket-Price-/blob/main/Indian%20Airline%20Ticket%20Price%20Dashboard%20snapshot.png to view the dashboard
 
-Using Power BI Dashboard one can quickly get to know ticket prices between different cities flying with different airlines in different classes along with flight duration
+Using Power BI Dashboard one can quickly get to know ticket prices between different cities flying with different airlines in different classes along with flight duration.
 By clicking on the link you can view the dashboard Public Power BI https://app.powerbi.com/groups/me/reports/13a8c3a0-982d-429f-bde3-064d59e9dd18/ab62ff69049d9972b315?experience=power-bi
 #### Conclusion
 - 'Air Asia' offers the cheapest flight tickets while flying Economy class while 'Air India' is cheapest while flying Business class.
