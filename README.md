@@ -7,6 +7,7 @@ Data is gathered from the Kaggle and considered as secondary data. The dataset i
 Click on the link https://github.com/dagarmohit272/Indian-Airlines-Ticket-Price-/blob/main/Indian%20Airline%20Ticket%20Price%20Dashboard%20snapshot.png to view the dashboard
 
 Using Power BI Dashboard one can quickly get to know ticket prices between different cities flying with different airlines in different classes along with flight duration
+https://app.powerbi.com/groups/me/reports/13a8c3a0-982d-429f-bde3-064d59e9dd18/ab62ff69049d9972b315?experience=power-bi
 #### Conclusion
 - 'Air Asia' offers the cheapest flight tickets while flying Economy class while 'Air India' is cheapest while flying Business class.
 - Booking tickets 3-7 weeks before travel will be cheaper than buying them within 3 weeks of travel as prices rise rapidly in 2-20 days period. Tickets can be cheap when bought just 1 day before however they might not be as cheap as when bought more than 3 weeks before
