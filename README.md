@@ -4,7 +4,7 @@ As an aviation enthusiast, I always look forward to flying whenever I plan to tr
 #### About the dataset
 Data is gathered from the Kaggle and considered as secondary data. The dataset includes details on the ticket booking alternatives available through the website "Easemytrip" for flights between India's top 6 metro areas. The cleaned dataset contains 11 characteristics and 300261 datapoints. Data was gathered in two stages: for business class tickets and for economy class tickets. The site provided a total of 300261 unique flight booking possibilities. 50 days of data were gathered, from February 11 to March 31 of 2022.
 #### Power BI Visualization Dashboard
-Click on Power BI Dashboard to view the dashboard
+Click on the link https://github.com/dagarmohit272/Indian-Airlines-Ticket-Price-/blob/main/Indian%20Airline%20Ticket%20Price%20Dashboard%20snapshot.png to view the dashboard
 
 Using Power BI Dashboard one can quickly get to know ticket prices between different cities flying with different airlines in different classes along with flight duration
 #### Conclusion
